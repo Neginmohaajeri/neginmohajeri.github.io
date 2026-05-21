@@ -1,0 +1,15 @@
+# Negin Mohajeri
+
+PhD Student in Electrical and Computer Engineering
+
+## About Me
+
+I am a PhD student in Electrical and Computer Engineering at UMass Amherst, interested in designing efficient, low-power mixed-signal circuits for scalable AI hardware.
+
+## Resume
+
+[View My Resume](Negin_Mohajeri_Resume.pdf)
+
+## Contact
+
+Email: nmohajeri@umass.edu
